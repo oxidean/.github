@@ -2,7 +2,7 @@
 
 A repository's own `CONTRIBUTING.md` always takes precedence — this file is the
 org-wide default for repos that don't define one. For the forge itself, see
-[`oxidean/oxidean` → CONTRIBUTING.md](/oxidean/oxidean/blob/main/CONTRIBUTING.md).
+[`oxidean/oxidean` → CONTRIBUTING.md](https://github.com/oxidean/oxidean/blob/main/CONTRIBUTING.md).
 
 Expectations that apply across the org:
 

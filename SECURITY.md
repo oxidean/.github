@@ -5,7 +5,7 @@
 Report vulnerabilities privately — never in a public issue.
 
 Preferred channel: private vulnerability reporting on the affected repository.
-On [`oxidean/oxidean`](/oxidean/oxidean), go to
+On [`oxidean/oxidean`](https://github.com/oxidean/oxidean), go to
 **Security → Advisories → Report a vulnerability** and describe the problem.
 
 If that channel isn't available for the repo in question, email

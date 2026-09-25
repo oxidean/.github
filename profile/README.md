@@ -26,14 +26,14 @@ machines.
 
 | Project | What it is |
 |---------|------------|
-| [`oxidean/oxidean`](/oxidean/oxidean) | Our self-hostable forge — web UI, API, and services (Bun + Rust monorepo) |
-| [`oxidean/.github`](/oxidean/.github) | This profile and the org-wide default community health files |
+| [`oxidean/oxidean`](https://github.com/oxidean/oxidean) | Our self-hostable forge — web UI, API, and services (Bun + Rust monorepo) |
+| [`oxidean/.github`](https://github.com/oxidean/.github) | This profile and the org-wide default community health files |
 
 ## Around the org
 
 - **Site:** [oxidean.dev](https://oxidean.dev)
 - **Product:** [app.oxidean.dev](https://app.oxidean.dev) — hosted Oxidean Cloud
 - **Contributing:** each repo's own guide wins; the org-wide defaults live in
-  [this repo](/oxidean/.github)
-- **Security:** [SECURITY.md](/oxidean/.github/blob/main/SECURITY.md) — report
+  [this repo](https://github.com/oxidean/.github)
+- **Security:** [SECURITY.md](https://github.com/oxidean/.github/blob/main/SECURITY.md) — report
   privately, never in public issues
