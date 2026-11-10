@@ -22,13 +22,6 @@ releases, and package registries — that ships as one codebase for
 [Oxidean Cloud](https://app.oxidean.dev) and for Docker Compose on your own
 machines.
 
-## Projects
-
-| Project | What it is |
-|---------|------------|
-| [`oxidean/oxidean`](https://github.com/oxidean/oxidean) | Our self-hostable forge — web UI, API, and services (Bun + Rust monorepo) |
-| [`oxidean/.github`](https://github.com/oxidean/.github) | This profile and the org-wide default community health files |
-
 ## Around the org
 
 - **Site:** [oxidean.dev](https://oxidean.dev)
