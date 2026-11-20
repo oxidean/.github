@@ -16,11 +16,17 @@
 
 ## What we do
 
-Oxidean builds development tooling you can run yourself. Our first product is a
-self-hostable forge for social coding — git hosting, issues, organizations,
-releases, and package registries — that ships as one codebase for
-[Oxidean Cloud](https://app.oxidean.dev) and for Docker Compose on your own
-machines.
+Oxidean builds development tooling you can run yourself.
+
+- **[Oxidean](https://github.com/oxidean/oxidean)** — a self-hostable forge for
+  social coding: git hosting, pull requests, issues, CI actions, releases, and
+  package registries — shipped as one codebase for
+  [Oxidean Cloud](https://app.oxidean.dev) and for Docker Compose or Kubernetes
+  on your own machines.
+- **[oxl](https://github.com/oxidean/oxl)** — a lean, compiled language for CLI
+  tools and services: dynamic ownership/borrow checking instead of a tracing GC
+  or a static borrow checker, structured concurrency, ahead-of-time native
+  builds from one toolchain binary.
 
 ## Around the org
 
